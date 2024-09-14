@@ -1,0 +1,12 @@
+Student,Course,Grade
+alice,MGT201,95
+bob,MGT220,80
+alice,MAT135,70
+carol,MGT201,80
+vincent,MGT201,90
+bob,MAT135,67
+---
+This file and private ....
+blah
+blah
+blah

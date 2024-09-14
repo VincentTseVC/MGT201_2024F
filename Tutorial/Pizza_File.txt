@@ -1,0 +1,2 @@
+So far in Toronto, Ningyuan has eaten the following number of slices of pizza each day:
+5,6,7,8,9,2
