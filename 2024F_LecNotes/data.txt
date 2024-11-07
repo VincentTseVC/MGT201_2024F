@@ -1,0 +1,7 @@
+0.00487 is smart
+hahahahah
+Name,Grade
+kuro,100
+vincent,98
+bob,50
+alice,78
