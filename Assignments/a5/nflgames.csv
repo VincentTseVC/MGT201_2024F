@@ -1,0 +1,193 @@
+GameID,Week,HomeTeamID,AwayTeamID,HomeScore,AwayScore,DayOfWeek,TimeOfDay,FieldType,Temp,Wind
+1,1,1,29,16,23,Sun,Day,sportturf,74,8
+2,2,1,28,26,6,Thu,Night,sportturf,82,6
+3,3,27,1,21,23,Sun,Day,grass ,71,23
+4,4,1,15,38,10,Sun,Day,sportturf,78,4
+5,5,7,1,20,13,Sun,Day,fieldturf ,0,0
+6,6,19,1,17,48,Sun,Day,grass ,84,6
+7,7,1,20,29,7,Sun,Day,sportturf,54,14
+8,8,29,1,27,24,Sun,Day,fieldturf ,62,6
+9,9,28,1,43,23,Sun,Night,grass ,38,6
+10,10,1,12,21,7,Sun,Day,sportturf,57,7
+11,12,22,1,27,34,Mon,Night,sportturf,0,0
+12,13,1,9,33,34,Sun,Day,sportturf,54,8
+13,1,2,7,31,24,Sun,Night,grass ,75,6
+14,2,2,10,24,17,Sun,Day,grass ,85,7
+15,3,23,2,26,20,Sun,Day,fieldturf ,70,7
+16,5,2,17,41,20,Sun,Day,grass ,71,10
+17,6,26,2,17,31,Sun,Day,fieldturf ,61,5
+18,7,2,16,42,17,Sun,Night,grass ,67,4
+19,8,2,9,35,21,Thu,Night,grass ,68,3
+20,9,11,2,43,21,Sun,Day,fieldturf ,35,19
+21,10,3,2,17,41,Sun,Day,grass ,68,6
+22,11,18,2,22,7,Sun,Day,astroplay,0,0
+23,12,2,25,39,36,Sun,Day,grass ,39,6
+24,13,10,2,16,29,Sun,Night,grass ,27,18
+25,1,26,3,19,14,Sun,Day,fieldturf ,76,12
+26,2,3,13,14,30,Sun,Day,grass ,67,16
+27,3,11,3,16,9,Sun,Day,fieldturf ,78,11
+28,4,3,25,14,38,Sun,Day,grass ,74,6
+29,6,3,9,28,31,Sun,Night,grass ,77,5
+30,7,3,17,13,24,Sun,Night,grass ,69,6
+31,8,27,3,23,13,Sun,Day,grass ,55,20
+32,9,23,3,30,24,Sun,Day,fieldturf ,54,9
+33,11,9,3,13,6,Sun,Day,grass ,72,13
+34,12,3,10,24,20,Thu,Night,grass ,57,6
+35,13,18,3,52,0,Sun,Day,astroplay,0,0
+36,1,4,6,34,17,Sun,Day,grass ,75,9
+37,2,7,4,27,30,Mon,Night,fieldturf ,0,0
+38,3,4,8,37,34,Sun,Day,grass ,79,4
+39,4,16,4,26,21,Sun,Day,grass,72,4
+40,5,4,18,34,28,Sun,Day,grass ,59,16
+41,6,4,14,27,0,Sun,Night,grass ,57,5
+42,8,17,4,24,20,Sun,Day,grass ,0,0
+43,9,13,4,21,31,Sun,Day,grass ,0,0
+44,10,4,15,45,21,Mon,Night,grass ,52,5
+45,11,31,4,53,20,Sun,Day,grass ,28,13
+46,12,4,12,43,24,Sun,Day,grass ,54,7
+47,13,5,4,10,33,Thu,Day,matrixturf,0,0
+48,1,5,16,17,28,Sun,Day,matrixturf,0,0
+49,2,12,5,10,26,Sun,Day,grass ,75,2
+50,3,18,5,31,34,Sun,Day,astroplay,0,0
+51,4,5,22,38,17,Sun,Night,matrixturf,0,0
+52,5,5,13,20,17,Sun,Day,matrixturf,0,0
+53,6,23,5,23,30,Sun,Day,fieldturf ,60,6
+54,7,5,14,31,21,Sun,Day,matrixturf,0,0
+55,8,5,8,17,20,Mon,Night,matrixturf,0,0
+56,9,5,17,17,28,Sun,Day,matrixturf,0,0
+57,10,6,5,17,31,Sun,Night,grass ,50,3
+58,12,14,5,28,31,Sun,Night,fieldturf ,51,2
+59,2,8,6,41,10,Sun,Day,grass ,65,6
+60,3,6,7,17,44,Sun,Day,grass ,85,5
+61,4,9,6,33,14,Sun,Day,grass ,73,8
+62,5,6,28,9,17,Sun,Day,grass ,71,10
+63,6,12,6,16,14,Sun,Day,grass ,67,7
+64,7,6,27,24,6,Sun,Day,grass ,76,8
+65,8,6,25,13,27,Sun,Day,grass ,76,6
+66,9,29,6,33,23,Sun,Day,fieldturf ,42,3
+67,12,7,6,23,3,Sun,Day,fieldturf ,0,0
+68,13,6,14,25,24,Sun,Day,grass ,71,5
+69,4,7,12,41,17,Sun,Day,fieldturf ,0,0
+70,6,13,7,28,33,Thu,Night,grass ,0,0
+71,7,7,29,27,0,Sun,Day,fieldturf ,0,0
+72,8,28,7,51,34,Sun,Day,grass ,62,12
+73,9,14,7,24,40,Mon,Night,fieldturf ,55,6
+74,11,7,11,20,42,Sun,Night,fieldturf ,0,0
+75,13,7,8,49,27,Sun,Day,fieldturf ,0,0
+76,1,13,8,17,6,Sun,Day,grass ,0,0
+77,4,8,14,14,45,Thu,Night,grass ,64,4
+78,5,8,23,17,27,Mon,Night,grass ,67,4
+79,6,17,8,30,20,Sun,Day,grass ,0,0
+80,7,8,12,19,17,Sun,Day,grass ,55,13
+81,9,21,8,29,26,Sun,Day,fieldturf,50,10
+82,11,8,19,7,27,Sun,Day,grass ,45,6
+83,12,16,8,17,13,Sun,Day,grass,62,9
+84,1,17,9,18,17,Mon,Night,grass ,0,0
+85,2,9,23,30,21,Sun,Day,grass ,94,8
+86,3,24,9,10,22,Sun,Day,a_turf,72,24
+87,5,9,26,31,0,Sun,Day,grass ,91,8
+88,7,9,10,20,23,Sun,Day,grass ,75,2
+89,9,25,9,37,0,Sun,Day,grass ,70,16
+90,12,9,18,27,24,Sun,Day,grass ,72,5
+91,1,10,12,10,26,Sun,Day,grass ,69,7
+92,3,25,10,15,34,Sun,Day,grass ,88,4
+93,4,10,11,41,14,Mon,Night,grass ,82,3
+94,5,16,10,22,17,Sun,Day,grass,85,1
+95,8,10,18,34,7,Sun,Day,grass ,70,8
+96,9,10,26,24,10,Sun,Day,grass ,57,20
+97,10,24,10,13,17,Sun,Day,a_turf,42,10
+98,11,10,23,24,20,Sun,Day,grass ,21,8
+99,1,25,11,33,20,Sun,Day,grass ,89,0
+100,2,21,11,7,30,Sun,Day,fieldturf,58,0
+101,5,11,29,43,17,Sun,Night,fieldturf ,47,2
+102,6,24,11,22,37,Sun,Day,a_turf,55,6
+103,7,11,26,27,25,Thu,Night,fieldturf ,64,9
+104,8,11,30,51,23,Sun,Day,fieldturf ,54,14
+105,12,11,32,34,9,Sun,Day,fieldturf ,58,7
+106,13,31,11,26,21,Sun,Day,grass ,28,14
+107,3,29,12,33,7,Sun,Day,fieldturf ,74,20
+108,5,12,27,28,29,Sun,Day,grass ,67,13
+109,8,12,13,16,30,Sun,Day,grass ,73,2
+110,11,12,28,24,27,Mon,Night,grass ,25,9
+111,13,13,12,45,21,Sun,Day,grass ,0,0
+112,3,14,13,30,17,Sun,Day,fieldturf ,70,4
+113,4,13,24,23,17,Sun,Day,grass ,0,0
+114,7,28,13,30,23,Mon,Night,grass ,57,6
+115,11,27,13,7,23,Sun,Day,grass ,34,9
+116,12,13,29,13,22,Sun,Day,grass ,0,0
+117,1,32,14,35,14,Mon,Night,fieldturf ,0,0
+118,2,14,17,14,25,Sun,Day,fieldturf ,66,1
+119,5,14,20,30,20,Sun,Day,fieldturf ,55,9
+120,10,23,14,38,17,Sun,Day,fieldturf ,50,0
+121,11,14,16,10,16,Sun,Day,fieldturf ,42,0
+122,1,19,15,14,20,Sun,Day,grass ,88,6
+123,2,15,32,24,7,Sun,Day,grass ,70,9
+124,3,15,28,19,37,Sun,Night,grass ,79,7
+125,5,15,30,31,24,Sun,Day,grass ,60,7
+126,6,29,15,37,37,Sun,Day,fieldturf ,60,5
+127,7,31,15,38,17,Sun,Day,grass ,48,12
+128,8,15,23,9,13,Sun,Day,grass ,77,9
+129,9,15,22,10,28,Thu,Night,grass ,58,3
+130,11,15,20,17,19,Sun,Day,grass ,48,3
+131,13,21,15,31,13,Sun,Day,fieldturf,12,17
+132,2,16,30,20,28,Sun,Night,grass,78,10
+133,3,17,16,23,14,Sun,Day,grass ,0,0
+134,6,18,16,17,31,Mon,Night,astroplay,0,0
+135,9,16,18,10,13,Sun,Day,grass,61,8
+136,10,22,16,24,27,Sun,Day,sportturf,0,0
+137,13,16,23,3,19,Thu,Night,grass,68,0
+138,10,17,18,31,14,Sun,Day,grass ,0,0
+139,11,17,32,14,6,Sun,Day,grass ,0,0
+140,12,23,17,19,3,Sun,Day,fieldturf ,51,10
+141,13,20,17,29,18,Sun,Day,fieldturf ,0,0
+142,1,18,21,6,34,Sun,Day,astroplay,0,0
+143,2,19,18,17,19,Sun,Day,grass ,88,8
+144,7,18,23,28,26,Sun,Day,astroplay,0,0
+145,3,20,19,56,14,Thu,Night,fieldturf ,0,0
+146,4,28,19,24,27,Sun,Day,grass ,74,3
+147,5,22,19,37,31,Sun,Day,sportturf,0,0
+148,8,19,21,13,19,Sun,Day,grass ,77,5
+149,9,27,19,22,17,Sun,Day,grass ,42,8
+150,10,19,20,17,27,Sun,Day,grass ,64,5
+151,12,30,19,21,13,Sun,Day,grass ,54,12
+152,13,19,29,13,14,Sun,Day,grass ,77,7
+153,1,20,22,37,34,Sun,Day,fieldturf ,0,0
+154,2,29,20,24,10,Sun,Day,fieldturf ,66,4
+155,4,21,20,41,28,Sun,Day,fieldturf,82,0
+156,6,20,30,13,27,Sun,Day,fieldturf ,0,0
+157,8,20,32,21,22,Sun,Day,grass ,59,13
+158,12,20,27,24,26,Sun,Day,fieldturf ,0,0
+159,3,22,21,20,9,Sun,Day,sportturf,0,0
+160,5,31,21,42,10,Thu,Night,grass ,62,6
+161,6,21,32,3,17,Sun,Day,fieldturf,53,0
+162,7,24,21,17,16,Sun,Day,a_turf,41,9
+163,11,30,21,21,13,Sun,Day,grass ,31,12
+164,12,21,31,21,24,Sun,Day,fieldturf,49,0
+165,2,27,22,26,24,Sun,Day,grass ,61,6
+166,7,32,22,24,23,Sun,Day,fieldturf ,0,0
+167,8,22,31,44,23,Sun,Night,sportturf,0,0
+168,11,22,29,10,27,Sun,Day,sportturf,0,0
+169,13,28,22,32,35,Sun,Day,grass ,63,15
+170,1,23,31,36,16,Thu,Night,fieldturf ,71,11
+171,1,30,24,20,23,Sun,Day,grass ,74,3
+172,2,24,25,29,10,Sun,Day,a_turf,58,4
+173,5,32,24,14,17,Sun,Day,fieldturf ,0,0
+174,8,26,24,23,43,Sun,Day,fieldturf ,59,16
+175,11,25,24,22,9,Thu,Night,grass ,74,4
+176,12,24,26,38,3,Mon,Night,fieldturf ,0,0
+177,13,24,27,26,10,Sun,Day,a_turf,57,17
+178,6,25,31,24,27,Sun,Day,grass ,86,13
+179,7,30,25,14,27,Sun,Day,grass ,50,10
+180,10,32,25,20,16,Sun,Day,fieldturf ,0,0
+181,13,26,25,13,16,Mon,Night,fieldturf ,42,6
+182,2,31,26,31,24,Sun,Day,grass ,63,15
+183,3,26,30,19,27,Mon,Night,fieldturf ,60,10
+184,4,26,32,17,24,Sun,Day,fieldturf ,80,0
+185,10,26,28,20,13,Sun,Day,fieldturf ,58,8
+186,1,28,27,30,27,Sun,Day,grass ,71,6
+187,6,27,28,31,10,Sun,Day,grass ,58,13
+188,10,29,27,3,24,Thu,Night,fieldturf ,42,17
+189,4,30,31,17,38,Sun,Day,grass ,70,3
+190,10,31,30,55,14,Sun,Night,grass ,34,5
+191,13,32,30,34,17,Thu,Day,fieldturf ,0,0
+192,3,32,31,19,7,Sun,Day,fieldturf ,0,0

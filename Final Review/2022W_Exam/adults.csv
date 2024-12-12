@@ -1,0 +1,7 @@
+capital-gain,capital-loss,sex,age,salary,occupation,hours-per-week
+200,0,Female,18,<=50k,A,40
+100,-50,Male,19,>50k,B,42
+100,100,Female,26,>50k,A,30
+150,Not found,Female,20,<=50k,C,45
+0,-1,Male,17,>50k,A,39
+0,-1,Male,17,>50k,A-a,39
